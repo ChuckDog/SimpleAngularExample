@@ -1,0 +1,41 @@
+{
+  "services":[
+    {
+      "s1" : "http://techguystaging.com/files/computer-icon.png",
+      "s2" : "Hardware Repair",
+      "s3" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor urna nec quam condimentum, finibus malesuada velit suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mauris sapien, consequat nec dictum non, venenatis non ipsum",
+      "s4" : "#/contact"
+    },
+    {
+      "s1" : "http://techguystaging.com/files/computer-icon.png",
+      "s2" : "Virus Removal",
+      "s3" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor urna nec quam condimentum, finibus malesuada velit suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mauris sapien, consequat nec dictum non, venenatis non ipsum",
+      "s4" : "#/contact"
+    },
+    {
+      "s1" : "http://techguystaging.com/files/computer-icon.png",
+      "s2" : "System Tuneup",
+      "s3" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor urna nec quam condimentum, finibus malesuada velit suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mauris sapien, consequat nec dictum non, venenatis non ipsum",
+      "s4" : "#/contact"
+    }],
+	
+	"contacts":[
+    {
+      "l1" : "Lynn Location",
+      "l2" : "333 Walnut st",
+      "l3" : "Lynn MA, 01902",
+      "l4" : "781-555-5555"
+  },
+    {
+      "l1" : "Amesbury Location",
+      "l2" : "22 School st",
+      "l3" : "Amesbury MA, 01913",
+      "l4" : "978-555-5555"
+    },
+    {
+      "l1" : "Boston Location",
+      "l2" : "36 Mass ave",
+      "l3" : "Boston MA, 01919",
+      "l4" : "617-555-5555"
+    }]
+}
